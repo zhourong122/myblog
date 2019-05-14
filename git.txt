@@ -1,0 +1,12 @@
+查看状态
+git status
+添加文件
+git add .
+提交：
+ git commit -m "first commit"
+连接至github
+ git remote add origin https://github.com/zhourong122/myblog.git
+提交到github
+ git push -u origin master
+ git push origin master
+
